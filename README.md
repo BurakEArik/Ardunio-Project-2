@@ -139,5 +139,7 @@ Follow these steps to set up and use this project:
    - Ensure the DHT sensor is functioning properly.
 
 ## Note 
-- The explanation is available on my YouTube channel on (28.01.2025).
+- The explanation is available on my YouTube channel.
+- First Video : https://www.youtube.com/watch?v=mm4AQp4K2i0
+- Second Video (28.01.2025)
 - Diagram is not available because I could not do that
