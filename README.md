@@ -140,3 +140,4 @@ Follow these steps to set up and use this project:
 
 ## Note 
 - The explanation is available on my YouTube channel on (28.01.2025).
+- Diagram is not available because I could not do that
