@@ -80,7 +80,7 @@ Follow these steps to set up and use this project:
    
       - GND → GND
    
-      - DATA → Digital Pin 2
+      - DATA → Digital Pin 8
    
     - LCD Screen:
    
@@ -137,3 +137,6 @@ Follow these steps to set up and use this project:
    - Verify the sensor connections.
     
    - Ensure the DHT sensor is functioning properly.
+
+## Note 
+- The explanation is available on my YouTube channel on (28.01.2025).
