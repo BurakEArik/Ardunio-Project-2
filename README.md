@@ -141,5 +141,5 @@ Follow these steps to set up and use this project:
 ## Note 
 - The explanation is available on my YouTube channel.
 - First Video : https://www.youtube.com/watch?v=mm4AQp4K2i0
-- Second Video (28.01.2025)
+- Second Video : https://www.youtube.com/watch?v=OLmYYeeUD_E&t=37s
 - Diagram is not available because I could not do that
